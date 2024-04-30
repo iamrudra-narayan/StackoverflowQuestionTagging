@@ -2,7 +2,7 @@
 
 Find the complete code, dataset and Reference by <b><a href="https://drive.google.com/drive/folders/19fKEdJLikmDe6p7nbcfMBzYsejW5tvJF?usp=sharing">CLICKING HERE</a></b>
 
-<img src="https://www.codespot.org/assets/other/stack-overflow.jpg">
+<img src="https://github.com/iamrudra-narayan/StackoverflowQuestionTagging/blob/master/stack-overflow.jpg">
 <br>
 <h2><b>INTRODUCTION</b></h2>
 <br>
